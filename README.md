@@ -1,4 +1,4 @@
-# Gurobi_helper
+# Gurobi Helper
 This project is a set of multiple usefull functions to utilize with Gurobipy library
 
 ## What the code does?
