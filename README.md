@@ -31,7 +31,7 @@ Step 4 - Declare all the variables, parameters, constrains and call the gurobi_h
 ## Config
 If you want only the variables with non zero values, you should pass "True" as the second parameter, but if you want to include the variables that contain zeros in the final values you shold pass the parameter "False" as the second parameter.<br/>
 
-Obs: Verify the file example_1.py on past "Examples" the see how to utilize correcly the code.<br/>
+Obs: Verify the file Example_1.py on folder "Examples" the see how to utilize correcly the code.<br/>
 
 ## Limitations of the program
 Your model should be running fine and find at least one solution.
