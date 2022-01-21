@@ -24,6 +24,9 @@ This project is a set of multiple usefull functions to utilize with Gurobipy lib
 Step 1 - Install all the required packages by the pip<br/>
 Step 2 - Put the file Gurobi_helper.py in the same paste of your code and import the class Gurobi_helper<br/>
 Step 3 - Call the class passing the inicial parameters model and True or False<br/>
+Step 4 - Declare all the variables, parameters, constrains and call the gurobi_helper class as the image bellow
+![image](https://user-images.githubusercontent.com/25333881/150536235-433c03e4-ca29-45ad-98a0-21ceae1c4061.png)
+
 
 ## Config
 If you want only the variables with non zero values, you should pass "True" as the second parameter, but if you want to include the variables that contain zeros in the final values you shold pass the parameter "False" as the second parameter.<br/>
