@@ -31,7 +31,7 @@ If you want only the variables with non zero values, you should pass "True" as t
 Obs: Verify the file example_1.py on past "Examples" the see how to utilize correcly the code.<br/>
 
 ## Limitations of the program
-Your model should be runining fine and find at least one solution.
+Your model should be running fine and find at least one solution.
 
 ## Pacotes Requeridos
 - python 3
