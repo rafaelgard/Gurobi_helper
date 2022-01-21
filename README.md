@@ -36,7 +36,7 @@ Obs: Verify the file example_1.py on past "Examples" the see how to utilize corr
 ## Limitations of the program
 Your model should be running fine and find at least one solution.
 
-## Pacotes Requeridos
+## Required Packages
 - python 3
 - pandas
 - numpy
