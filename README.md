@@ -8,12 +8,22 @@ This project is a set of multiple usefull functions to utilize with Gurobipy lib
 - Create a .csv file with all the model results
 
 ## Example of Results
-![Retorno](https://user-images.githubusercontent.com/25333881/146276009-3b0bdb83-4716-47b7-a7f3-d545f8e1a2ad.png)
+![image](https://user-images.githubusercontent.com/25333881/150533115-8d476005-0543-43cc-96b6-78c51df2a160.png)
+
+
+## Final Variables Values in the file variables.csv
+![image](https://user-images.githubusercontent.com/25333881/150533625-93b5ea58-0340-4aa0-85cc-896167dae766.png)
+
+## Final Results in the file results.csv
+![image](https://user-images.githubusercontent.com/25333881/150534468-c4e4612b-0f8f-48da-882c-9effc70e80c1.png)
+
+## Files created
+![image](https://user-images.githubusercontent.com/25333881/150535089-6813b67a-0903-4383-874a-cdf1a2c4eaf0.png)
 
 ## How to run the code?
-Passo 1 - Install all the required packages by the pip<br/>
-Passo 2 - Put the file Gurobi_helper.py in the same paste of your code and import the class Gurobi_helper<br/>
-Passo 3 - Call the class passing the inicial parameters model and True or False<br/>
+Step 1 - Install all the required packages by the pip<br/>
+Step 2 - Put the file Gurobi_helper.py in the same paste of your code and import the class Gurobi_helper<br/>
+Step 3 - Call the class passing the inicial parameters model and True or False<br/>
 
 ## Config
 If you want only the variables with non zero values, you should pass "True" as the second parameter, but if you want to include the variables that contain zeros in the final values you shold pass the parameter "False" as the second parameter.<br/>
